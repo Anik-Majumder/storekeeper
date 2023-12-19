@@ -9,7 +9,7 @@
             type="text/css"
         />
         <script src="https://cdn.tailwindcss.com"></script>
-        <title>Document</title>
+        <title>sale History</title>
     </head>
     <body>
         @include('components.navbar')
